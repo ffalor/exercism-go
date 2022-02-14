@@ -8,7 +8,7 @@
 		// Update 'VARIANT' to pick an Ubuntu version: hirsute, focal, bionic
 		// Use hirsute or bionic on local arm64/Apple Silicon.3
 		"args": { "VARIANT": "focal" }
-	},32
+	},323
 ex3
 	// Set *default* container specific settings.json values on container create.
 	"settings": {},
